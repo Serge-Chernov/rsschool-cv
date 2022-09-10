@@ -1,10 +1,10 @@
 # Siarhei Charnou
 ***
 ## Contacts
-+__Location__: Gomel, Belarus
-+__Phone__: +375293392280
-+__E-mail__: 4sv.scorpio@gmail.com
-+__GitHub__: Serge-Chernov
++ __Location__: Gomel, Belarus
++ __Phone__: +375293392280
++ __E-mail__: 4sv.scorpio@gmail.com
++ __GitHub__: Serge-Chernov
 ***
 ## About me
 I started learning HTML/CSS and JavaScript in August 2022. I learned about RS School a year ago, 
