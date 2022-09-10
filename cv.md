@@ -20,3 +20,6 @@ return a * b
 ## Education
 +__University__: Gomel State University After Francisk Skorina, Physical Culture Department
 ***
+## English
+__A2__
+***
