@@ -11,9 +11,12 @@ I started learning HTML/CSS and JavaScript in August 2022. I learned about RS Sc
 but decided to start learning just now. I hope to successfully complete this course.
 ***
 ## Code
-'''
+```
 function multiply(a, b){
 return a * b
 }
-'''
+```
+***
+## Education
++__University__: Gomel State University After Francisk Skorina, Physical Culture Department
 ***
